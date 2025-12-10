@@ -1,7 +1,9 @@
 ---
 title: OS2 doc-site-skabelon
 layout: default
-nav_order: 1
+nav_order: 10
+has_children: true
+has_toc: true
 ---
 
 # OS2 doc-site-skabelon
