@@ -9,7 +9,7 @@ has_toc: true
 # OS2 doc-site-skabelon
 
 Dette er en skabelon til doc-sites for OS2-produkter.  
-Formålet er at samle **overblik, governance, manual, værktøjskasse og teknisk dokumentation** ét sted.
+Formålet er at samle **overblik, governance, manual, værktøjskasse og teknisk dokumentation** ét sted...
 
 **Du er det rigtige sted, hvis du:**
 
